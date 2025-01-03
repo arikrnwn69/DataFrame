@@ -1,0 +1,1601 @@
+user_id,movie_id,movie_title,genre_ids,rating
+user_82,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",1.2
+user_36,773867,Seoul Vibe,"[28, 80, 35]",3.0
+user_95,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",7.1
+user_70,1122504,Exorcism in Utero,[27],6.3
+user_5,1397493,2024.mov,[99],1.8
+user_30,511987,Crawl,"[27, 53]",6.4
+user_72,1403294,Entre Aulas,"[12, 18, 35]",7.4
+user_90,646389,Plane,"[28, 12, 53]",4.8
+user_58,395817,The Thicket,"[80, 53, 37]",3.5
+user_1,346910,The Predator,"[878, 28, 12]",7.3
+user_44,474350,It Chapter Two,"[27, 18, 53]",2.4
+user_98,823219,Flow,"[16, 14, 12]",1.9
+user_49,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",4.2
+user_45,818647,Through My Window,"[10749, 18, 35]",3.4
+user_6,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",5.8
+user_49,1122504,Exorcism in Utero,[27],6.0
+user_81,818647,Through My Window,"[10749, 18, 35]",9.0
+user_47,395817,The Thicket,"[80, 53, 37]",2.7
+user_9,373571,Godzilla: King of the Monsters,"[878, 28]",7.0
+user_99,913290,Barbarian,"[27, 9648]",9.9
+user_30,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",4.4
+user_59,653349,Vacation Friends,[35],2.5
+user_46,1403294,Entre Aulas,"[12, 18, 35]",7.0
+user_90,1122504,Exorcism in Utero,[27],6.5
+user_22,646389,Plane,"[28, 12, 53]",7.6
+user_21,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",4.4
+user_82,646389,Plane,"[28, 12, 53]",3.0
+user_42,373571,Godzilla: King of the Monsters,"[878, 28]",3.1
+user_5,823219,Flow,"[16, 14, 12]",4.6
+user_9,1403294,Entre Aulas,"[12, 18, 35]",9.2
+user_73,823219,Flow,"[16, 14, 12]",2.9
+user_64,1330681,Hunnington Hills,"[53, 27]",9.0
+user_83,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",2.3
+user_18,773867,Seoul Vibe,"[28, 80, 35]",7.7
+user_69,474350,It Chapter Two,"[27, 18, 53]",7.7
+user_55,395817,The Thicket,"[80, 53, 37]",4.6
+user_29,298618,The Flash,"[12, 28, 878]",5.6
+user_12,373571,Godzilla: King of the Monsters,"[878, 28]",8.7
+user_20,346910,The Predator,"[878, 28, 12]",8.1
+user_55,818647,Through My Window,"[10749, 18, 35]",1.6
+user_49,818647,Through My Window,"[10749, 18, 35]",10.0
+user_68,474350,It Chapter Two,"[27, 18, 53]",9.7
+user_2,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",7.1
+user_69,474350,It Chapter Two,"[27, 18, 53]",7.9
+user_44,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",3.6
+user_21,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",1.0
+user_93,474350,It Chapter Two,"[27, 18, 53]",9.7
+user_98,346910,The Predator,"[878, 28, 12]",5.6
+user_14,913290,Barbarian,"[27, 9648]",8.6
+user_65,818647,Through My Window,"[10749, 18, 35]",2.8
+user_48,346910,The Predator,"[878, 28, 12]",5.9
+user_100,511987,Crawl,"[27, 53]",9.3
+user_77,823219,Flow,"[16, 14, 12]",5.4
+user_15,653349,Vacation Friends,[35],8.9
+user_40,773867,Seoul Vibe,"[28, 80, 35]",1.5
+user_73,1122504,Exorcism in Utero,[27],1.8
+user_63,1122504,Exorcism in Utero,[27],9.8
+user_69,298618,The Flash,"[12, 28, 878]",2.2
+user_61,646389,Plane,"[28, 12, 53]",2.5
+user_68,818647,Through My Window,"[10749, 18, 35]",4.8
+user_28,646389,Plane,"[28, 12, 53]",7.8
+user_89,1403294,Entre Aulas,"[12, 18, 35]",7.4
+user_52,653349,Vacation Friends,[35],4.9
+user_67,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",2.1
+user_29,1122504,Exorcism in Utero,[27],4.0
+user_76,646389,Plane,"[28, 12, 53]",3.1
+user_29,1397493,2024.mov,[99],1.6
+user_81,373571,Godzilla: King of the Monsters,"[878, 28]",3.1
+user_5,823219,Flow,"[16, 14, 12]",1.6
+user_31,474350,It Chapter Two,"[27, 18, 53]",7.0
+user_28,646389,Plane,"[28, 12, 53]",2.2
+user_74,395817,The Thicket,"[80, 53, 37]",5.3
+user_61,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",2.7
+user_13,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",4.2
+user_53,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",8.8
+user_7,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",1.5
+user_94,823219,Flow,"[16, 14, 12]",8.2
+user_14,773867,Seoul Vibe,"[28, 80, 35]",2.7
+user_69,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",2.3
+user_24,474350,It Chapter Two,"[27, 18, 53]",5.2
+user_10,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",8.3
+user_71,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",1.5
+user_70,1397493,2024.mov,[99],9.7
+user_97,773867,Seoul Vibe,"[28, 80, 35]",2.5
+user_63,399360,Alpha,"[12, 18]",2.9
+user_52,373571,Godzilla: King of the Monsters,"[878, 28]",2.5
+user_1,1330681,Hunnington Hills,"[53, 27]",3.4
+user_59,913290,Barbarian,"[27, 9648]",4.8
+user_94,646389,Plane,"[28, 12, 53]",7.0
+user_63,298618,The Flash,"[12, 28, 878]",2.7
+user_28,373571,Godzilla: King of the Monsters,"[878, 28]",6.2
+user_70,373571,Godzilla: King of the Monsters,"[878, 28]",7.7
+user_8,373571,Godzilla: King of the Monsters,"[878, 28]",6.3
+user_65,511987,Crawl,"[27, 53]",2.4
+user_66,1122504,Exorcism in Utero,[27],8.7
+user_9,818647,Through My Window,"[10749, 18, 35]",1.6
+user_31,1330681,Hunnington Hills,"[53, 27]",2.1
+user_73,773867,Seoul Vibe,"[28, 80, 35]",6.2
+user_6,818647,Through My Window,"[10749, 18, 35]",1.7
+user_85,395817,The Thicket,"[80, 53, 37]",6.1
+user_41,474350,It Chapter Two,"[27, 18, 53]",2.8
+user_92,823219,Flow,"[16, 14, 12]",3.1
+user_51,298618,The Flash,"[12, 28, 878]",7.0
+user_39,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",3.8
+user_97,1122504,Exorcism in Utero,[27],1.1
+user_80,395817,The Thicket,"[80, 53, 37]",10.0
+user_10,646389,Plane,"[28, 12, 53]",2.9
+user_34,298618,The Flash,"[12, 28, 878]",9.4
+user_9,773867,Seoul Vibe,"[28, 80, 35]",4.3
+user_21,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",8.5
+user_91,913290,Barbarian,"[27, 9648]",6.5
+user_84,511987,Crawl,"[27, 53]",1.1
+user_71,913290,Barbarian,"[27, 9648]",9.4
+user_14,298618,The Flash,"[12, 28, 878]",3.4
+user_14,646389,Plane,"[28, 12, 53]",2.4
+user_37,818647,Through My Window,"[10749, 18, 35]",2.9
+user_44,1403294,Entre Aulas,"[12, 18, 35]",7.2
+user_34,511987,Crawl,"[27, 53]",5.4
+user_7,1122504,Exorcism in Utero,[27],6.7
+user_36,373571,Godzilla: King of the Monsters,"[878, 28]",1.0
+user_99,298618,The Flash,"[12, 28, 878]",6.7
+user_34,346910,The Predator,"[878, 28, 12]",7.7
+user_71,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",6.0
+user_15,1122504,Exorcism in Utero,[27],9.5
+user_89,298618,The Flash,"[12, 28, 878]",5.9
+user_48,395817,The Thicket,"[80, 53, 37]",6.0
+user_56,298618,The Flash,"[12, 28, 878]",1.4
+user_47,373571,Godzilla: King of the Monsters,"[878, 28]",9.1
+user_27,773867,Seoul Vibe,"[28, 80, 35]",7.0
+user_46,646389,Plane,"[28, 12, 53]",9.0
+user_53,818647,Through My Window,"[10749, 18, 35]",7.7
+user_31,346910,The Predator,"[878, 28, 12]",9.8
+user_23,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",1.2
+user_95,823219,Flow,"[16, 14, 12]",8.0
+user_53,773867,Seoul Vibe,"[28, 80, 35]",3.4
+user_90,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",4.4
+user_5,399360,Alpha,"[12, 18]",3.0
+user_59,653349,Vacation Friends,[35],3.7
+user_30,773867,Seoul Vibe,"[28, 80, 35]",1.2
+user_25,1330681,Hunnington Hills,"[53, 27]",4.0
+user_9,474350,It Chapter Two,"[27, 18, 53]",4.2
+user_66,1330681,Hunnington Hills,"[53, 27]",7.1
+user_69,823219,Flow,"[16, 14, 12]",9.5
+user_15,474350,It Chapter Two,"[27, 18, 53]",2.6
+user_34,373571,Godzilla: King of the Monsters,"[878, 28]",2.0
+user_56,653349,Vacation Friends,[35],7.6
+user_41,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",6.5
+user_66,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",4.5
+user_74,1403294,Entre Aulas,"[12, 18, 35]",3.3
+user_91,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",1.0
+user_69,1403294,Entre Aulas,"[12, 18, 35]",4.3
+user_9,823219,Flow,"[16, 14, 12]",6.6
+user_85,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",7.5
+user_39,511987,Crawl,"[27, 53]",3.8
+user_53,823219,Flow,"[16, 14, 12]",4.6
+user_38,646389,Plane,"[28, 12, 53]",2.1
+user_54,1330681,Hunnington Hills,"[53, 27]",7.1
+user_23,818647,Through My Window,"[10749, 18, 35]",6.1
+user_52,646389,Plane,"[28, 12, 53]",8.5
+user_39,913290,Barbarian,"[27, 9648]",2.9
+user_75,818647,Through My Window,"[10749, 18, 35]",6.9
+user_60,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",5.0
+user_28,511987,Crawl,"[27, 53]",5.3
+user_95,346910,The Predator,"[878, 28, 12]",6.9
+user_37,511987,Crawl,"[27, 53]",7.0
+user_80,823219,Flow,"[16, 14, 12]",1.8
+user_97,773867,Seoul Vibe,"[28, 80, 35]",7.1
+user_29,1403294,Entre Aulas,"[12, 18, 35]",2.3
+user_6,773867,Seoul Vibe,"[28, 80, 35]",9.9
+user_79,1122504,Exorcism in Utero,[27],5.1
+user_81,395817,The Thicket,"[80, 53, 37]",2.7
+user_90,1330681,Hunnington Hills,"[53, 27]",5.4
+user_32,298618,The Flash,"[12, 28, 878]",6.9
+user_1,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",8.0
+user_29,346910,The Predator,"[878, 28, 12]",8.2
+user_90,511987,Crawl,"[27, 53]",5.2
+user_72,773867,Seoul Vibe,"[28, 80, 35]",9.3
+user_16,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",2.2
+user_60,511987,Crawl,"[27, 53]",9.9
+user_77,823219,Flow,"[16, 14, 12]",9.6
+user_57,818647,Through My Window,"[10749, 18, 35]",8.3
+user_65,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",8.5
+user_71,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",9.1
+user_96,399360,Alpha,"[12, 18]",5.1
+user_97,773867,Seoul Vibe,"[28, 80, 35]",8.6
+user_36,511987,Crawl,"[27, 53]",5.4
+user_31,474350,It Chapter Two,"[27, 18, 53]",5.0
+user_92,913290,Barbarian,"[27, 9648]",3.1
+user_43,823219,Flow,"[16, 14, 12]",9.0
+user_11,298618,The Flash,"[12, 28, 878]",2.4
+user_50,298618,The Flash,"[12, 28, 878]",7.4
+user_9,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",4.7
+user_70,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",4.7
+user_27,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",4.5
+user_99,395817,The Thicket,"[80, 53, 37]",9.5
+user_3,395817,The Thicket,"[80, 53, 37]",4.4
+user_1,653349,Vacation Friends,[35],3.7
+user_50,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",5.8
+user_95,646389,Plane,"[28, 12, 53]",8.2
+user_29,399360,Alpha,"[12, 18]",3.0
+user_56,399360,Alpha,"[12, 18]",1.3
+user_44,1330681,Hunnington Hills,"[53, 27]",7.5
+user_60,298618,The Flash,"[12, 28, 878]",9.8
+user_69,1397493,2024.mov,[99],9.2
+user_76,395817,The Thicket,"[80, 53, 37]",7.0
+user_11,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",2.2
+user_60,346910,The Predator,"[878, 28, 12]",1.5
+user_49,823219,Flow,"[16, 14, 12]",2.9
+user_42,823219,Flow,"[16, 14, 12]",7.9
+user_49,474350,It Chapter Two,"[27, 18, 53]",7.8
+user_54,474350,It Chapter Two,"[27, 18, 53]",8.5
+user_61,1397493,2024.mov,[99],7.7
+user_7,653349,Vacation Friends,[35],3.0
+user_9,373571,Godzilla: King of the Monsters,"[878, 28]",7.8
+user_32,1403294,Entre Aulas,"[12, 18, 35]",8.6
+user_80,298618,The Flash,"[12, 28, 878]",3.1
+user_61,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",6.1
+user_28,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",7.3
+user_99,653349,Vacation Friends,[35],2.5
+user_78,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",8.0
+user_21,913290,Barbarian,"[27, 9648]",2.0
+user_4,913290,Barbarian,"[27, 9648]",6.2
+user_49,1330681,Hunnington Hills,"[53, 27]",9.5
+user_26,1122504,Exorcism in Utero,[27],6.3
+user_81,773867,Seoul Vibe,"[28, 80, 35]",1.9
+user_99,913290,Barbarian,"[27, 9648]",8.7
+user_77,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",8.2
+user_73,373571,Godzilla: King of the Monsters,"[878, 28]",4.1
+user_55,653349,Vacation Friends,[35],1.6
+user_83,823219,Flow,"[16, 14, 12]",1.1
+user_54,399360,Alpha,"[12, 18]",1.9
+user_47,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",7.4
+user_56,346910,The Predator,"[878, 28, 12]",7.6
+user_84,474350,It Chapter Two,"[27, 18, 53]",6.5
+user_69,399360,Alpha,"[12, 18]",5.2
+user_94,395817,The Thicket,"[80, 53, 37]",3.4
+user_32,1122504,Exorcism in Utero,[27],3.5
+user_58,773867,Seoul Vibe,"[28, 80, 35]",7.8
+user_73,818647,Through My Window,"[10749, 18, 35]",7.0
+user_44,1397493,2024.mov,[99],5.4
+user_42,346910,The Predator,"[878, 28, 12]",5.4
+user_46,474350,It Chapter Two,"[27, 18, 53]",4.1
+user_77,474350,It Chapter Two,"[27, 18, 53]",6.0
+user_67,1403294,Entre Aulas,"[12, 18, 35]",1.8
+user_93,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",5.4
+user_98,773867,Seoul Vibe,"[28, 80, 35]",7.2
+user_83,399360,Alpha,"[12, 18]",5.0
+user_3,1122504,Exorcism in Utero,[27],3.6
+user_52,773867,Seoul Vibe,"[28, 80, 35]",3.8
+user_75,653349,Vacation Friends,[35],5.3
+user_68,653349,Vacation Friends,[35],4.8
+user_96,646389,Plane,"[28, 12, 53]",4.0
+user_90,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",3.4
+user_33,773867,Seoul Vibe,"[28, 80, 35]",2.1
+user_25,823219,Flow,"[16, 14, 12]",2.1
+user_69,346910,The Predator,"[878, 28, 12]",2.7
+user_95,399360,Alpha,"[12, 18]",3.5
+user_76,511987,Crawl,"[27, 53]",6.4
+user_13,1403294,Entre Aulas,"[12, 18, 35]",3.7
+user_47,346910,The Predator,"[878, 28, 12]",3.7
+user_91,646389,Plane,"[28, 12, 53]",2.1
+user_6,373571,Godzilla: King of the Monsters,"[878, 28]",6.0
+user_90,298618,The Flash,"[12, 28, 878]",6.7
+user_97,399360,Alpha,"[12, 18]",1.9
+user_2,395817,The Thicket,"[80, 53, 37]",3.6
+user_62,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",4.1
+user_7,474350,It Chapter Two,"[27, 18, 53]",9.5
+user_62,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",8.4
+user_52,399360,Alpha,"[12, 18]",1.7
+user_81,373571,Godzilla: King of the Monsters,"[878, 28]",2.4
+user_73,913290,Barbarian,"[27, 9648]",1.8
+user_32,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",6.0
+user_54,818647,Through My Window,"[10749, 18, 35]",6.4
+user_80,773867,Seoul Vibe,"[28, 80, 35]",8.0
+user_49,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",9.2
+user_39,395817,The Thicket,"[80, 53, 37]",9.9
+user_40,395817,The Thicket,"[80, 53, 37]",6.6
+user_79,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",9.5
+user_27,1403294,Entre Aulas,"[12, 18, 35]",3.4
+user_11,346910,The Predator,"[878, 28, 12]",3.2
+user_71,1122504,Exorcism in Utero,[27],2.4
+user_53,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",7.2
+user_61,913290,Barbarian,"[27, 9648]",1.3
+user_37,913290,Barbarian,"[27, 9648]",7.3
+user_59,1122504,Exorcism in Utero,[27],7.2
+user_34,395817,The Thicket,"[80, 53, 37]",7.0
+user_26,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",2.0
+user_29,298618,The Flash,"[12, 28, 878]",9.2
+user_19,1122504,Exorcism in Utero,[27],1.5
+user_40,818647,Through My Window,"[10749, 18, 35]",7.7
+user_73,913290,Barbarian,"[27, 9648]",5.0
+user_60,913290,Barbarian,"[27, 9648]",7.3
+user_35,511987,Crawl,"[27, 53]",5.9
+user_57,1122504,Exorcism in Utero,[27],6.4
+user_56,823219,Flow,"[16, 14, 12]",6.4
+user_4,1122504,Exorcism in Utero,[27],3.1
+user_87,395817,The Thicket,"[80, 53, 37]",6.3
+user_3,474350,It Chapter Two,"[27, 18, 53]",6.2
+user_98,346910,The Predator,"[878, 28, 12]",5.2
+user_84,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",9.2
+user_24,395817,The Thicket,"[80, 53, 37]",4.9
+user_63,1122504,Exorcism in Utero,[27],5.2
+user_53,823219,Flow,"[16, 14, 12]",3.9
+user_14,346910,The Predator,"[878, 28, 12]",4.0
+user_89,399360,Alpha,"[12, 18]",3.6
+user_52,646389,Plane,"[28, 12, 53]",1.3
+user_12,823219,Flow,"[16, 14, 12]",3.3
+user_15,1330681,Hunnington Hills,"[53, 27]",8.8
+user_1,646389,Plane,"[28, 12, 53]",5.2
+user_7,1403294,Entre Aulas,"[12, 18, 35]",5.7
+user_80,399360,Alpha,"[12, 18]",6.6
+user_98,373571,Godzilla: King of the Monsters,"[878, 28]",2.8
+user_71,298618,The Flash,"[12, 28, 878]",9.3
+user_57,399360,Alpha,"[12, 18]",2.1
+user_81,818647,Through My Window,"[10749, 18, 35]",8.2
+user_91,346910,The Predator,"[878, 28, 12]",3.8
+user_2,646389,Plane,"[28, 12, 53]",4.7
+user_29,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",5.2
+user_16,298618,The Flash,"[12, 28, 878]",5.5
+user_92,913290,Barbarian,"[27, 9648]",5.6
+user_35,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",8.5
+user_61,773867,Seoul Vibe,"[28, 80, 35]",5.1
+user_19,1330681,Hunnington Hills,"[53, 27]",2.7
+user_77,511987,Crawl,"[27, 53]",7.7
+user_18,1122504,Exorcism in Utero,[27],3.5
+user_54,823219,Flow,"[16, 14, 12]",9.4
+user_65,474350,It Chapter Two,"[27, 18, 53]",8.4
+user_37,913290,Barbarian,"[27, 9648]",8.5
+user_75,399360,Alpha,"[12, 18]",8.8
+user_58,646389,Plane,"[28, 12, 53]",5.4
+user_43,646389,Plane,"[28, 12, 53]",7.9
+user_49,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",9.4
+user_25,773867,Seoul Vibe,"[28, 80, 35]",6.1
+user_30,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",1.4
+user_96,399360,Alpha,"[12, 18]",7.3
+user_49,1330681,Hunnington Hills,"[53, 27]",9.9
+user_84,298618,The Flash,"[12, 28, 878]",5.5
+user_5,298618,The Flash,"[12, 28, 878]",5.5
+user_76,823219,Flow,"[16, 14, 12]",8.8
+user_57,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",5.7
+user_59,1397493,2024.mov,[99],7.5
+user_53,298618,The Flash,"[12, 28, 878]",1.7
+user_34,823219,Flow,"[16, 14, 12]",6.6
+user_51,1122504,Exorcism in Utero,[27],8.7
+user_87,646389,Plane,"[28, 12, 53]",4.4
+user_41,399360,Alpha,"[12, 18]",8.9
+user_5,818647,Through My Window,"[10749, 18, 35]",1.6
+user_81,913290,Barbarian,"[27, 9648]",10.0
+user_96,1122504,Exorcism in Utero,[27],4.9
+user_13,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",5.0
+user_89,913290,Barbarian,"[27, 9648]",9.1
+user_6,823219,Flow,"[16, 14, 12]",8.2
+user_38,653349,Vacation Friends,[35],4.4
+user_19,773867,Seoul Vibe,"[28, 80, 35]",5.8
+user_73,346910,The Predator,"[878, 28, 12]",2.5
+user_11,818647,Through My Window,"[10749, 18, 35]",8.8
+user_80,773867,Seoul Vibe,"[28, 80, 35]",5.5
+user_75,298618,The Flash,"[12, 28, 878]",3.1
+user_82,474350,It Chapter Two,"[27, 18, 53]",5.1
+user_86,1397493,2024.mov,[99],9.1
+user_60,913290,Barbarian,"[27, 9648]",7.1
+user_21,1122504,Exorcism in Utero,[27],5.0
+user_45,395817,The Thicket,"[80, 53, 37]",3.7
+user_55,474350,It Chapter Two,"[27, 18, 53]",5.1
+user_39,1403294,Entre Aulas,"[12, 18, 35]",10.0
+user_62,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",3.1
+user_74,653349,Vacation Friends,[35],6.2
+user_90,913290,Barbarian,"[27, 9648]",1.2
+user_85,1330681,Hunnington Hills,"[53, 27]",3.5
+user_73,373571,Godzilla: King of the Monsters,"[878, 28]",9.2
+user_96,399360,Alpha,"[12, 18]",8.5
+user_37,773867,Seoul Vibe,"[28, 80, 35]",6.5
+user_46,773867,Seoul Vibe,"[28, 80, 35]",6.7
+user_80,474350,It Chapter Two,"[27, 18, 53]",7.1
+user_93,298618,The Flash,"[12, 28, 878]",6.7
+user_81,373571,Godzilla: King of the Monsters,"[878, 28]",3.8
+user_57,373571,Godzilla: King of the Monsters,"[878, 28]",6.2
+user_94,298618,The Flash,"[12, 28, 878]",1.8
+user_38,823219,Flow,"[16, 14, 12]",7.7
+user_23,1403294,Entre Aulas,"[12, 18, 35]",2.2
+user_70,653349,Vacation Friends,[35],5.8
+user_35,346910,The Predator,"[878, 28, 12]",3.3
+user_62,913290,Barbarian,"[27, 9648]",7.7
+user_44,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",5.2
+user_10,298618,The Flash,"[12, 28, 878]",7.8
+user_29,1330681,Hunnington Hills,"[53, 27]",9.7
+user_72,653349,Vacation Friends,[35],1.8
+user_51,1397493,2024.mov,[99],3.4
+user_16,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",4.3
+user_96,474350,It Chapter Two,"[27, 18, 53]",6.3
+user_82,653349,Vacation Friends,[35],2.0
+user_30,399360,Alpha,"[12, 18]",1.2
+user_72,823219,Flow,"[16, 14, 12]",9.2
+user_29,1122504,Exorcism in Utero,[27],6.7
+user_60,913290,Barbarian,"[27, 9648]",6.8
+user_15,298618,The Flash,"[12, 28, 878]",1.4
+user_5,913290,Barbarian,"[27, 9648]",10.0
+user_15,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",3.1
+user_69,298618,The Flash,"[12, 28, 878]",4.5
+user_48,646389,Plane,"[28, 12, 53]",4.8
+user_96,298618,The Flash,"[12, 28, 878]",9.0
+user_84,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",8.5
+user_79,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",9.5
+user_36,373571,Godzilla: King of the Monsters,"[878, 28]",7.2
+user_28,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",5.0
+user_31,653349,Vacation Friends,[35],1.9
+user_88,653349,Vacation Friends,[35],5.9
+user_83,653349,Vacation Friends,[35],1.5
+user_36,1403294,Entre Aulas,"[12, 18, 35]",9.7
+user_59,1122504,Exorcism in Utero,[27],7.0
+user_83,818647,Through My Window,"[10749, 18, 35]",9.7
+user_7,823219,Flow,"[16, 14, 12]",3.2
+user_17,395817,The Thicket,"[80, 53, 37]",2.8
+user_98,646389,Plane,"[28, 12, 53]",2.9
+user_28,773867,Seoul Vibe,"[28, 80, 35]",4.0
+user_19,818647,Through My Window,"[10749, 18, 35]",1.0
+user_19,298618,The Flash,"[12, 28, 878]",5.9
+user_23,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",6.9
+user_4,298618,The Flash,"[12, 28, 878]",1.1
+user_31,395817,The Thicket,"[80, 53, 37]",3.9
+user_23,474350,It Chapter Two,"[27, 18, 53]",1.5
+user_95,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",5.7
+user_96,1122504,Exorcism in Utero,[27],5.3
+user_100,653349,Vacation Friends,[35],5.6
+user_14,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",5.5
+user_79,373571,Godzilla: King of the Monsters,"[878, 28]",7.5
+user_85,511987,Crawl,"[27, 53]",3.7
+user_83,1397493,2024.mov,[99],1.5
+user_62,1330681,Hunnington Hills,"[53, 27]",4.8
+user_14,399360,Alpha,"[12, 18]",7.4
+user_57,1122504,Exorcism in Utero,[27],9.1
+user_42,818647,Through My Window,"[10749, 18, 35]",2.3
+user_17,474350,It Chapter Two,"[27, 18, 53]",6.6
+user_75,646389,Plane,"[28, 12, 53]",7.4
+user_49,818647,Through My Window,"[10749, 18, 35]",5.8
+user_59,511987,Crawl,"[27, 53]",6.4
+user_13,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",8.7
+user_84,646389,Plane,"[28, 12, 53]",7.5
+user_28,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",5.1
+user_30,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",4.1
+user_59,1330681,Hunnington Hills,"[53, 27]",4.7
+user_13,823219,Flow,"[16, 14, 12]",4.8
+user_86,474350,It Chapter Two,"[27, 18, 53]",4.4
+user_20,399360,Alpha,"[12, 18]",1.6
+user_11,1122504,Exorcism in Utero,[27],4.9
+user_96,653349,Vacation Friends,[35],8.3
+user_72,373571,Godzilla: King of the Monsters,"[878, 28]",6.3
+user_72,646389,Plane,"[28, 12, 53]",4.0
+user_16,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",4.2
+user_86,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",8.8
+user_93,373571,Godzilla: King of the Monsters,"[878, 28]",9.7
+user_77,913290,Barbarian,"[27, 9648]",4.2
+user_74,511987,Crawl,"[27, 53]",2.9
+user_85,399360,Alpha,"[12, 18]",3.0
+user_14,653349,Vacation Friends,[35],8.6
+user_48,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",7.9
+user_74,773867,Seoul Vibe,"[28, 80, 35]",8.3
+user_72,818647,Through My Window,"[10749, 18, 35]",6.5
+user_83,646389,Plane,"[28, 12, 53]",1.2
+user_85,474350,It Chapter Two,"[27, 18, 53]",1.3
+user_35,913290,Barbarian,"[27, 9648]",9.3
+user_45,1397493,2024.mov,[99],2.6
+user_19,395817,The Thicket,"[80, 53, 37]",6.9
+user_9,298618,The Flash,"[12, 28, 878]",7.7
+user_4,1122504,Exorcism in Utero,[27],7.7
+user_28,1330681,Hunnington Hills,"[53, 27]",4.8
+user_44,346910,The Predator,"[878, 28, 12]",4.3
+user_93,823219,Flow,"[16, 14, 12]",8.0
+user_73,818647,Through My Window,"[10749, 18, 35]",1.8
+user_7,298618,The Flash,"[12, 28, 878]",2.4
+user_80,373571,Godzilla: King of the Monsters,"[878, 28]",7.1
+user_35,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",7.0
+user_63,818647,Through My Window,"[10749, 18, 35]",5.0
+user_35,1403294,Entre Aulas,"[12, 18, 35]",7.8
+user_15,653349,Vacation Friends,[35],4.9
+user_37,395817,The Thicket,"[80, 53, 37]",5.4
+user_86,913290,Barbarian,"[27, 9648]",1.4
+user_51,818647,Through My Window,"[10749, 18, 35]",1.5
+user_27,913290,Barbarian,"[27, 9648]",9.5
+user_99,298618,The Flash,"[12, 28, 878]",7.9
+user_38,823219,Flow,"[16, 14, 12]",2.1
+user_64,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",2.6
+user_49,646389,Plane,"[28, 12, 53]",7.3
+user_65,646389,Plane,"[28, 12, 53]",8.5
+user_46,1122504,Exorcism in Utero,[27],4.6
+user_95,373571,Godzilla: King of the Monsters,"[878, 28]",4.9
+user_59,1122504,Exorcism in Utero,[27],8.8
+user_74,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",6.2
+user_91,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",3.6
+user_52,1397493,2024.mov,[99],9.7
+user_22,818647,Through My Window,"[10749, 18, 35]",5.1
+user_89,653349,Vacation Friends,[35],1.8
+user_14,773867,Seoul Vibe,"[28, 80, 35]",4.9
+user_52,511987,Crawl,"[27, 53]",1.7
+user_40,823219,Flow,"[16, 14, 12]",3.0
+user_100,346910,The Predator,"[878, 28, 12]",1.7
+user_82,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",5.8
+user_25,653349,Vacation Friends,[35],4.2
+user_83,298618,The Flash,"[12, 28, 878]",3.1
+user_19,474350,It Chapter Two,"[27, 18, 53]",2.8
+user_78,298618,The Flash,"[12, 28, 878]",7.8
+user_84,1122504,Exorcism in Utero,[27],2.6
+user_99,399360,Alpha,"[12, 18]",5.2
+user_73,395817,The Thicket,"[80, 53, 37]",5.0
+user_73,818647,Through My Window,"[10749, 18, 35]",3.9
+user_81,823219,Flow,"[16, 14, 12]",2.4
+user_9,399360,Alpha,"[12, 18]",5.0
+user_39,474350,It Chapter Two,"[27, 18, 53]",6.3
+user_46,511987,Crawl,"[27, 53]",1.7
+user_60,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",1.3
+user_48,913290,Barbarian,"[27, 9648]",1.7
+user_12,818647,Through My Window,"[10749, 18, 35]",6.3
+user_50,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",6.2
+user_95,373571,Godzilla: King of the Monsters,"[878, 28]",5.0
+user_74,1403294,Entre Aulas,"[12, 18, 35]",3.9
+user_61,511987,Crawl,"[27, 53]",2.4
+user_8,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",1.9
+user_44,1122504,Exorcism in Utero,[27],5.5
+user_23,373571,Godzilla: King of the Monsters,"[878, 28]",3.2
+user_57,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",5.7
+user_79,346910,The Predator,"[878, 28, 12]",4.3
+user_37,1330681,Hunnington Hills,"[53, 27]",4.7
+user_44,818647,Through My Window,"[10749, 18, 35]",1.5
+user_81,823219,Flow,"[16, 14, 12]",1.6
+user_13,646389,Plane,"[28, 12, 53]",7.1
+user_37,474350,It Chapter Two,"[27, 18, 53]",7.5
+user_85,818647,Through My Window,"[10749, 18, 35]",8.9
+user_43,1122504,Exorcism in Utero,[27],6.2
+user_19,653349,Vacation Friends,[35],3.8
+user_84,1330681,Hunnington Hills,"[53, 27]",2.2
+user_91,1122504,Exorcism in Utero,[27],3.8
+user_49,823219,Flow,"[16, 14, 12]",8.3
+user_86,511987,Crawl,"[27, 53]",1.8
+user_86,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",5.6
+user_3,653349,Vacation Friends,[35],3.8
+user_28,823219,Flow,"[16, 14, 12]",9.5
+user_63,1403294,Entre Aulas,"[12, 18, 35]",3.0
+user_18,298618,The Flash,"[12, 28, 878]",1.7
+user_13,511987,Crawl,"[27, 53]",7.9
+user_95,511987,Crawl,"[27, 53]",1.3
+user_44,818647,Through My Window,"[10749, 18, 35]",2.2
+user_49,298618,The Flash,"[12, 28, 878]",2.5
+user_89,818647,Through My Window,"[10749, 18, 35]",8.3
+user_22,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",1.4
+user_47,773867,Seoul Vibe,"[28, 80, 35]",9.7
+user_79,913290,Barbarian,"[27, 9648]",7.8
+user_58,773867,Seoul Vibe,"[28, 80, 35]",5.8
+user_40,399360,Alpha,"[12, 18]",9.1
+user_25,653349,Vacation Friends,[35],7.1
+user_74,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",5.2
+user_37,1330681,Hunnington Hills,"[53, 27]",5.5
+user_54,346910,The Predator,"[878, 28, 12]",8.4
+user_78,298618,The Flash,"[12, 28, 878]",8.9
+user_7,399360,Alpha,"[12, 18]",8.9
+user_71,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",7.4
+user_67,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",3.6
+user_98,346910,The Predator,"[878, 28, 12]",3.5
+user_66,298618,The Flash,"[12, 28, 878]",8.5
+user_12,773867,Seoul Vibe,"[28, 80, 35]",8.4
+user_45,1397493,2024.mov,[99],4.7
+user_51,511987,Crawl,"[27, 53]",4.4
+user_50,1122504,Exorcism in Utero,[27],4.4
+user_4,823219,Flow,"[16, 14, 12]",9.4
+user_92,823219,Flow,"[16, 14, 12]",8.1
+user_18,373571,Godzilla: King of the Monsters,"[878, 28]",3.6
+user_61,298618,The Flash,"[12, 28, 878]",7.8
+user_61,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",6.5
+user_11,1397493,2024.mov,[99],3.3
+user_20,646389,Plane,"[28, 12, 53]",9.5
+user_78,511987,Crawl,"[27, 53]",4.8
+user_100,913290,Barbarian,"[27, 9648]",3.1
+user_16,373571,Godzilla: King of the Monsters,"[878, 28]",3.1
+user_82,818647,Through My Window,"[10749, 18, 35]",5.1
+user_15,399360,Alpha,"[12, 18]",6.4
+user_3,511987,Crawl,"[27, 53]",6.2
+user_92,298618,The Flash,"[12, 28, 878]",3.6
+user_1,818647,Through My Window,"[10749, 18, 35]",4.2
+user_74,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",2.7
+user_86,1122504,Exorcism in Utero,[27],5.7
+user_47,1122504,Exorcism in Utero,[27],9.6
+user_70,511987,Crawl,"[27, 53]",8.1
+user_65,646389,Plane,"[28, 12, 53]",1.2
+user_61,373571,Godzilla: King of the Monsters,"[878, 28]",6.7
+user_48,474350,It Chapter Two,"[27, 18, 53]",7.7
+user_46,1122504,Exorcism in Utero,[27],4.1
+user_94,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",7.9
+user_95,823219,Flow,"[16, 14, 12]",2.2
+user_46,646389,Plane,"[28, 12, 53]",4.0
+user_83,346910,The Predator,"[878, 28, 12]",8.5
+user_88,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",9.8
+user_62,346910,The Predator,"[878, 28, 12]",8.3
+user_9,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",1.3
+user_26,373571,Godzilla: King of the Monsters,"[878, 28]",8.1
+user_6,823219,Flow,"[16, 14, 12]",9.4
+user_66,1330681,Hunnington Hills,"[53, 27]",9.9
+user_70,399360,Alpha,"[12, 18]",3.3
+user_97,1403294,Entre Aulas,"[12, 18, 35]",3.6
+user_100,373571,Godzilla: King of the Monsters,"[878, 28]",8.8
+user_43,474350,It Chapter Two,"[27, 18, 53]",2.1
+user_48,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",9.0
+user_96,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",9.1
+user_50,823219,Flow,"[16, 14, 12]",9.8
+user_64,399360,Alpha,"[12, 18]",4.3
+user_67,474350,It Chapter Two,"[27, 18, 53]",8.2
+user_94,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",1.7
+user_78,346910,The Predator,"[878, 28, 12]",5.9
+user_42,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",1.7
+user_85,913290,Barbarian,"[27, 9648]",3.8
+user_78,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",2.5
+user_57,653349,Vacation Friends,[35],5.0
+user_94,653349,Vacation Friends,[35],6.5
+user_56,474350,It Chapter Two,"[27, 18, 53]",6.8
+user_8,1122504,Exorcism in Utero,[27],7.0
+user_52,653349,Vacation Friends,[35],5.6
+user_96,346910,The Predator,"[878, 28, 12]",9.6
+user_19,818647,Through My Window,"[10749, 18, 35]",7.1
+user_57,373571,Godzilla: King of the Monsters,"[878, 28]",2.1
+user_31,653349,Vacation Friends,[35],4.3
+user_73,373571,Godzilla: King of the Monsters,"[878, 28]",6.4
+user_87,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",9.5
+user_48,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",7.9
+user_74,298618,The Flash,"[12, 28, 878]",5.8
+user_51,823219,Flow,"[16, 14, 12]",6.8
+user_32,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",1.2
+user_24,399360,Alpha,"[12, 18]",5.7
+user_72,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",3.4
+user_34,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",2.9
+user_79,913290,Barbarian,"[27, 9648]",7.2
+user_63,1403294,Entre Aulas,"[12, 18, 35]",2.1
+user_10,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",2.6
+user_92,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",10.0
+user_88,823219,Flow,"[16, 14, 12]",7.0
+user_91,1122504,Exorcism in Utero,[27],5.9
+user_38,913290,Barbarian,"[27, 9648]",8.7
+user_92,346910,The Predator,"[878, 28, 12]",8.1
+user_66,773867,Seoul Vibe,"[28, 80, 35]",2.1
+user_26,298618,The Flash,"[12, 28, 878]",3.1
+user_64,1397493,2024.mov,[99],4.2
+user_74,653349,Vacation Friends,[35],5.2
+user_71,298618,The Flash,"[12, 28, 878]",6.5
+user_12,1122504,Exorcism in Utero,[27],3.8
+user_92,399360,Alpha,"[12, 18]",5.7
+user_99,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",8.4
+user_10,298618,The Flash,"[12, 28, 878]",9.8
+user_83,1122504,Exorcism in Utero,[27],5.0
+user_88,511987,Crawl,"[27, 53]",4.1
+user_100,646389,Plane,"[28, 12, 53]",6.8
+user_24,298618,The Flash,"[12, 28, 878]",4.9
+user_8,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",5.7
+user_39,346910,The Predator,"[878, 28, 12]",2.5
+user_91,773867,Seoul Vibe,"[28, 80, 35]",4.1
+user_67,913290,Barbarian,"[27, 9648]",8.6
+user_33,1403294,Entre Aulas,"[12, 18, 35]",6.7
+user_71,474350,It Chapter Two,"[27, 18, 53]",2.1
+user_39,818647,Through My Window,"[10749, 18, 35]",5.8
+user_65,346910,The Predator,"[878, 28, 12]",6.3
+user_75,298618,The Flash,"[12, 28, 878]",2.5
+user_80,818647,Through My Window,"[10749, 18, 35]",4.0
+user_73,373571,Godzilla: King of the Monsters,"[878, 28]",8.4
+user_4,1122504,Exorcism in Utero,[27],1.4
+user_83,395817,The Thicket,"[80, 53, 37]",3.4
+user_27,395817,The Thicket,"[80, 53, 37]",4.7
+user_82,1397493,2024.mov,[99],5.5
+user_81,646389,Plane,"[28, 12, 53]",3.6
+user_39,399360,Alpha,"[12, 18]",3.2
+user_88,1330681,Hunnington Hills,"[53, 27]",3.7
+user_10,373571,Godzilla: King of the Monsters,"[878, 28]",2.4
+user_54,399360,Alpha,"[12, 18]",5.2
+user_44,818647,Through My Window,"[10749, 18, 35]",2.3
+user_92,823219,Flow,"[16, 14, 12]",7.6
+user_45,1330681,Hunnington Hills,"[53, 27]",2.2
+user_48,511987,Crawl,"[27, 53]",6.1
+user_41,773867,Seoul Vibe,"[28, 80, 35]",5.2
+user_35,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",3.2
+user_13,373571,Godzilla: King of the Monsters,"[878, 28]",3.6
+user_50,818647,Through My Window,"[10749, 18, 35]",4.8
+user_21,823219,Flow,"[16, 14, 12]",9.4
+user_93,823219,Flow,"[16, 14, 12]",2.7
+user_21,399360,Alpha,"[12, 18]",10.0
+user_60,399360,Alpha,"[12, 18]",8.9
+user_64,1397493,2024.mov,[99],1.8
+user_51,511987,Crawl,"[27, 53]",5.1
+user_31,1403294,Entre Aulas,"[12, 18, 35]",6.3
+user_7,373571,Godzilla: King of the Monsters,"[878, 28]",3.5
+user_77,399360,Alpha,"[12, 18]",3.6
+user_2,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",4.9
+user_34,653349,Vacation Friends,[35],7.9
+user_47,373571,Godzilla: King of the Monsters,"[878, 28]",4.6
+user_73,646389,Plane,"[28, 12, 53]",2.8
+user_71,913290,Barbarian,"[27, 9648]",1.7
+user_65,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",7.9
+user_36,818647,Through My Window,"[10749, 18, 35]",7.1
+user_16,298618,The Flash,"[12, 28, 878]",9.8
+user_51,653349,Vacation Friends,[35],8.2
+user_44,646389,Plane,"[28, 12, 53]",9.5
+user_97,298618,The Flash,"[12, 28, 878]",2.8
+user_66,1330681,Hunnington Hills,"[53, 27]",5.5
+user_6,373571,Godzilla: King of the Monsters,"[878, 28]",2.2
+user_43,399360,Alpha,"[12, 18]",5.7
+user_20,818647,Through My Window,"[10749, 18, 35]",9.0
+user_18,823219,Flow,"[16, 14, 12]",9.4
+user_41,346910,The Predator,"[878, 28, 12]",4.5
+user_79,913290,Barbarian,"[27, 9648]",6.3
+user_65,511987,Crawl,"[27, 53]",5.8
+user_91,395817,The Thicket,"[80, 53, 37]",3.7
+user_3,653349,Vacation Friends,[35],4.0
+user_15,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",6.3
+user_93,1397493,2024.mov,[99],6.4
+user_34,395817,The Thicket,"[80, 53, 37]",6.2
+user_93,373571,Godzilla: King of the Monsters,"[878, 28]",6.3
+user_22,511987,Crawl,"[27, 53]",6.7
+user_80,1330681,Hunnington Hills,"[53, 27]",2.3
+user_88,773867,Seoul Vibe,"[28, 80, 35]",1.3
+user_90,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",2.7
+user_57,823219,Flow,"[16, 14, 12]",4.8
+user_53,1403294,Entre Aulas,"[12, 18, 35]",4.7
+user_100,818647,Through My Window,"[10749, 18, 35]",9.3
+user_95,373571,Godzilla: King of the Monsters,"[878, 28]",7.4
+user_67,1403294,Entre Aulas,"[12, 18, 35]",6.0
+user_85,399360,Alpha,"[12, 18]",5.7
+user_41,346910,The Predator,"[878, 28, 12]",5.1
+user_69,823219,Flow,"[16, 14, 12]",5.9
+user_87,474350,It Chapter Two,"[27, 18, 53]",6.5
+user_25,773867,Seoul Vibe,"[28, 80, 35]",3.5
+user_39,773867,Seoul Vibe,"[28, 80, 35]",9.5
+user_39,913290,Barbarian,"[27, 9648]",7.3
+user_89,399360,Alpha,"[12, 18]",3.9
+user_45,646389,Plane,"[28, 12, 53]",9.4
+user_93,474350,It Chapter Two,"[27, 18, 53]",3.6
+user_74,646389,Plane,"[28, 12, 53]",4.4
+user_51,653349,Vacation Friends,[35],9.6
+user_19,913290,Barbarian,"[27, 9648]",1.4
+user_92,1122504,Exorcism in Utero,[27],4.1
+user_57,474350,It Chapter Two,"[27, 18, 53]",7.7
+user_28,1403294,Entre Aulas,"[12, 18, 35]",8.5
+user_35,646389,Plane,"[28, 12, 53]",7.3
+user_18,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",6.5
+user_76,773867,Seoul Vibe,"[28, 80, 35]",3.2
+user_86,511987,Crawl,"[27, 53]",3.0
+user_30,373571,Godzilla: King of the Monsters,"[878, 28]",1.9
+user_43,399360,Alpha,"[12, 18]",1.9
+user_99,298618,The Flash,"[12, 28, 878]",1.0
+user_71,346910,The Predator,"[878, 28, 12]",4.7
+user_61,399360,Alpha,"[12, 18]",6.9
+user_97,913290,Barbarian,"[27, 9648]",3.9
+user_83,373571,Godzilla: King of the Monsters,"[878, 28]",9.2
+user_12,395817,The Thicket,"[80, 53, 37]",3.1
+user_95,373571,Godzilla: King of the Monsters,"[878, 28]",9.2
+user_23,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",8.9
+user_23,373571,Godzilla: King of the Monsters,"[878, 28]",10.0
+user_51,399360,Alpha,"[12, 18]",2.7
+user_96,913290,Barbarian,"[27, 9648]",8.9
+user_2,913290,Barbarian,"[27, 9648]",6.1
+user_14,823219,Flow,"[16, 14, 12]",3.6
+user_83,646389,Plane,"[28, 12, 53]",5.7
+user_18,511987,Crawl,"[27, 53]",5.2
+user_25,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",4.0
+user_94,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",6.8
+user_92,346910,The Predator,"[878, 28, 12]",1.1
+user_44,913290,Barbarian,"[27, 9648]",6.1
+user_97,1403294,Entre Aulas,"[12, 18, 35]",2.6
+user_82,1330681,Hunnington Hills,"[53, 27]",8.4
+user_66,823219,Flow,"[16, 14, 12]",1.8
+user_86,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",2.7
+user_18,399360,Alpha,"[12, 18]",3.9
+user_32,1397493,2024.mov,[99],3.3
+user_31,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",7.8
+user_43,913290,Barbarian,"[27, 9648]",6.2
+user_74,1397493,2024.mov,[99],3.4
+user_47,773867,Seoul Vibe,"[28, 80, 35]",1.6
+user_16,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",3.8
+user_52,511987,Crawl,"[27, 53]",9.3
+user_91,913290,Barbarian,"[27, 9648]",7.2
+user_82,913290,Barbarian,"[27, 9648]",4.3
+user_29,773867,Seoul Vibe,"[28, 80, 35]",9.6
+user_62,298618,The Flash,"[12, 28, 878]",5.1
+user_78,653349,Vacation Friends,[35],4.7
+user_71,399360,Alpha,"[12, 18]",7.8
+user_86,1403294,Entre Aulas,"[12, 18, 35]",7.9
+user_88,818647,Through My Window,"[10749, 18, 35]",8.9
+user_11,511987,Crawl,"[27, 53]",5.0
+user_91,653349,Vacation Friends,[35],1.7
+user_73,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",1.6
+user_71,511987,Crawl,"[27, 53]",2.8
+user_69,298618,The Flash,"[12, 28, 878]",2.5
+user_67,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",2.0
+user_27,395817,The Thicket,"[80, 53, 37]",5.4
+user_66,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",8.3
+user_59,298618,The Flash,"[12, 28, 878]",5.6
+user_59,395817,The Thicket,"[80, 53, 37]",1.5
+user_60,913290,Barbarian,"[27, 9648]",7.5
+user_51,474350,It Chapter Two,"[27, 18, 53]",8.3
+user_96,1403294,Entre Aulas,"[12, 18, 35]",6.2
+user_6,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",4.1
+user_9,646389,Plane,"[28, 12, 53]",9.9
+user_9,399360,Alpha,"[12, 18]",1.3
+user_53,346910,The Predator,"[878, 28, 12]",7.9
+user_99,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",4.4
+user_49,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",8.8
+user_49,1330681,Hunnington Hills,"[53, 27]",1.7
+user_85,646389,Plane,"[28, 12, 53]",2.2
+user_45,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",2.6
+user_69,1330681,Hunnington Hills,"[53, 27]",5.8
+user_94,773867,Seoul Vibe,"[28, 80, 35]",8.5
+user_97,1397493,2024.mov,[99],9.8
+user_60,646389,Plane,"[28, 12, 53]",4.8
+user_49,773867,Seoul Vibe,"[28, 80, 35]",3.2
+user_45,298618,The Flash,"[12, 28, 878]",3.5
+user_93,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",1.3
+user_85,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",6.5
+user_3,773867,Seoul Vibe,"[28, 80, 35]",2.9
+user_13,818647,Through My Window,"[10749, 18, 35]",1.3
+user_77,373571,Godzilla: King of the Monsters,"[878, 28]",3.2
+user_6,1330681,Hunnington Hills,"[53, 27]",5.0
+user_70,1403294,Entre Aulas,"[12, 18, 35]",7.8
+user_100,373571,Godzilla: King of the Monsters,"[878, 28]",2.3
+user_38,773867,Seoul Vibe,"[28, 80, 35]",8.3
+user_94,395817,The Thicket,"[80, 53, 37]",3.9
+user_77,823219,Flow,"[16, 14, 12]",3.1
+user_19,511987,Crawl,"[27, 53]",3.0
+user_39,474350,It Chapter Two,"[27, 18, 53]",1.5
+user_76,346910,The Predator,"[878, 28, 12]",6.6
+user_55,646389,Plane,"[28, 12, 53]",5.5
+user_45,1330681,Hunnington Hills,"[53, 27]",8.1
+user_41,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",4.7
+user_39,1330681,Hunnington Hills,"[53, 27]",2.7
+user_69,399360,Alpha,"[12, 18]",3.2
+user_29,913290,Barbarian,"[27, 9648]",8.7
+user_19,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",9.2
+user_72,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",9.7
+user_72,511987,Crawl,"[27, 53]",2.2
+user_32,474350,It Chapter Two,"[27, 18, 53]",2.8
+user_83,1122504,Exorcism in Utero,[27],9.3
+user_48,1122504,Exorcism in Utero,[27],5.8
+user_25,373571,Godzilla: King of the Monsters,"[878, 28]",3.4
+user_87,818647,Through My Window,"[10749, 18, 35]",6.4
+user_10,1403294,Entre Aulas,"[12, 18, 35]",8.2
+user_76,646389,Plane,"[28, 12, 53]",3.0
+user_27,823219,Flow,"[16, 14, 12]",3.7
+user_2,1403294,Entre Aulas,"[12, 18, 35]",9.4
+user_95,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",7.7
+user_97,399360,Alpha,"[12, 18]",9.2
+user_90,818647,Through My Window,"[10749, 18, 35]",7.3
+user_51,773867,Seoul Vibe,"[28, 80, 35]",6.0
+user_100,913290,Barbarian,"[27, 9648]",4.4
+user_69,653349,Vacation Friends,[35],3.8
+user_47,511987,Crawl,"[27, 53]",8.9
+user_60,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",8.2
+user_93,399360,Alpha,"[12, 18]",7.9
+user_41,1403294,Entre Aulas,"[12, 18, 35]",4.3
+user_53,373571,Godzilla: King of the Monsters,"[878, 28]",6.1
+user_29,298618,The Flash,"[12, 28, 878]",1.1
+user_71,395817,The Thicket,"[80, 53, 37]",6.2
+user_54,913290,Barbarian,"[27, 9648]",2.4
+user_43,773867,Seoul Vibe,"[28, 80, 35]",4.4
+user_32,399360,Alpha,"[12, 18]",6.0
+user_88,823219,Flow,"[16, 14, 12]",3.3
+user_63,399360,Alpha,"[12, 18]",5.1
+user_94,653349,Vacation Friends,[35],2.5
+user_93,646389,Plane,"[28, 12, 53]",5.4
+user_70,373571,Godzilla: King of the Monsters,"[878, 28]",5.7
+user_10,373571,Godzilla: King of the Monsters,"[878, 28]",7.9
+user_53,298618,The Flash,"[12, 28, 878]",8.6
+user_30,1122504,Exorcism in Utero,[27],7.4
+user_2,1403294,Entre Aulas,"[12, 18, 35]",5.6
+user_48,373571,Godzilla: King of the Monsters,"[878, 28]",6.6
+user_86,818647,Through My Window,"[10749, 18, 35]",9.2
+user_85,399360,Alpha,"[12, 18]",1.1
+user_69,646389,Plane,"[28, 12, 53]",4.7
+user_3,511987,Crawl,"[27, 53]",7.5
+user_69,913290,Barbarian,"[27, 9648]",1.2
+user_90,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",8.3
+user_23,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",9.3
+user_68,298618,The Flash,"[12, 28, 878]",3.2
+user_80,511987,Crawl,"[27, 53]",3.3
+user_46,474350,It Chapter Two,"[27, 18, 53]",8.2
+user_11,653349,Vacation Friends,[35],9.6
+user_59,395817,The Thicket,"[80, 53, 37]",3.2
+user_90,773867,Seoul Vibe,"[28, 80, 35]",3.7
+user_11,373571,Godzilla: King of the Monsters,"[878, 28]",1.8
+user_49,1330681,Hunnington Hills,"[53, 27]",6.0
+user_8,1397493,2024.mov,[99],7.3
+user_11,399360,Alpha,"[12, 18]",8.6
+user_83,823219,Flow,"[16, 14, 12]",6.1
+user_13,511987,Crawl,"[27, 53]",9.3
+user_30,1403294,Entre Aulas,"[12, 18, 35]",9.1
+user_89,395817,The Thicket,"[80, 53, 37]",5.3
+user_6,1122504,Exorcism in Utero,[27],7.2
+user_36,646389,Plane,"[28, 12, 53]",6.1
+user_5,346910,The Predator,"[878, 28, 12]",9.4
+user_41,1397493,2024.mov,[99],9.7
+user_76,298618,The Flash,"[12, 28, 878]",7.8
+user_92,1330681,Hunnington Hills,"[53, 27]",9.4
+user_39,346910,The Predator,"[878, 28, 12]",6.1
+user_73,1330681,Hunnington Hills,"[53, 27]",7.1
+user_70,823219,Flow,"[16, 14, 12]",4.5
+user_95,298618,The Flash,"[12, 28, 878]",8.1
+user_89,1122504,Exorcism in Utero,[27],5.5
+user_45,373571,Godzilla: King of the Monsters,"[878, 28]",1.9
+user_30,1122504,Exorcism in Utero,[27],4.1
+user_99,818647,Through My Window,"[10749, 18, 35]",9.6
+user_51,823219,Flow,"[16, 14, 12]",1.3
+user_35,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",5.4
+user_46,646389,Plane,"[28, 12, 53]",9.5
+user_56,346910,The Predator,"[878, 28, 12]",7.1
+user_85,1330681,Hunnington Hills,"[53, 27]",1.8
+user_80,913290,Barbarian,"[27, 9648]",8.2
+user_92,1122504,Exorcism in Utero,[27],1.7
+user_20,1330681,Hunnington Hills,"[53, 27]",7.4
+user_82,298618,The Flash,"[12, 28, 878]",7.7
+user_41,653349,Vacation Friends,[35],2.0
+user_1,913290,Barbarian,"[27, 9648]",5.0
+user_98,474350,It Chapter Two,"[27, 18, 53]",1.9
+user_12,346910,The Predator,"[878, 28, 12]",4.9
+user_72,646389,Plane,"[28, 12, 53]",5.6
+user_14,1397493,2024.mov,[99],1.8
+user_71,1122504,Exorcism in Utero,[27],6.4
+user_42,1330681,Hunnington Hills,"[53, 27]",1.1
+user_53,1330681,Hunnington Hills,"[53, 27]",8.0
+user_93,646389,Plane,"[28, 12, 53]",9.1
+user_32,395817,The Thicket,"[80, 53, 37]",5.7
+user_88,1330681,Hunnington Hills,"[53, 27]",2.5
+user_35,913290,Barbarian,"[27, 9648]",3.4
+user_19,1122504,Exorcism in Utero,[27],2.5
+user_36,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",3.7
+user_10,653349,Vacation Friends,[35],3.3
+user_32,399360,Alpha,"[12, 18]",6.3
+user_26,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",2.0
+user_39,1397493,2024.mov,[99],9.5
+user_43,818647,Through My Window,"[10749, 18, 35]",4.4
+user_43,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",4.0
+user_84,818647,Through My Window,"[10749, 18, 35]",2.2
+user_42,818647,Through My Window,"[10749, 18, 35]",9.5
+user_26,399360,Alpha,"[12, 18]",3.8
+user_51,823219,Flow,"[16, 14, 12]",3.6
+user_89,399360,Alpha,"[12, 18]",9.7
+user_32,823219,Flow,"[16, 14, 12]",4.4
+user_51,653349,Vacation Friends,[35],2.0
+user_73,1403294,Entre Aulas,"[12, 18, 35]",6.3
+user_70,346910,The Predator,"[878, 28, 12]",7.1
+user_71,1397493,2024.mov,[99],9.6
+user_60,1403294,Entre Aulas,"[12, 18, 35]",4.9
+user_38,1122504,Exorcism in Utero,[27],8.4
+user_53,399360,Alpha,"[12, 18]",2.3
+user_39,773867,Seoul Vibe,"[28, 80, 35]",3.3
+user_20,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",8.1
+user_10,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",9.9
+user_62,395817,The Thicket,"[80, 53, 37]",4.6
+user_65,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",5.9
+user_47,646389,Plane,"[28, 12, 53]",6.3
+user_11,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",7.9
+user_85,653349,Vacation Friends,[35],2.5
+user_79,373571,Godzilla: King of the Monsters,"[878, 28]",6.1
+user_83,1330681,Hunnington Hills,"[53, 27]",9.7
+user_43,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",2.0
+user_13,474350,It Chapter Two,"[27, 18, 53]",3.0
+user_96,511987,Crawl,"[27, 53]",6.0
+user_89,395817,The Thicket,"[80, 53, 37]",3.0
+user_48,1330681,Hunnington Hills,"[53, 27]",5.2
+user_87,395817,The Thicket,"[80, 53, 37]",7.2
+user_20,653349,Vacation Friends,[35],10.0
+user_62,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",3.7
+user_11,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",8.5
+user_94,298618,The Flash,"[12, 28, 878]",4.1
+user_44,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",8.1
+user_67,399360,Alpha,"[12, 18]",4.1
+user_13,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",7.5
+user_58,823219,Flow,"[16, 14, 12]",1.6
+user_6,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",1.2
+user_44,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",7.1
+user_22,773867,Seoul Vibe,"[28, 80, 35]",5.6
+user_71,346910,The Predator,"[878, 28, 12]",4.0
+user_55,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",3.1
+user_52,346910,The Predator,"[878, 28, 12]",2.7
+user_85,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",4.6
+user_95,818647,Through My Window,"[10749, 18, 35]",8.9
+user_58,395817,The Thicket,"[80, 53, 37]",4.9
+user_1,1403294,Entre Aulas,"[12, 18, 35]",2.9
+user_97,1122504,Exorcism in Utero,[27],6.2
+user_69,346910,The Predator,"[878, 28, 12]",4.3
+user_26,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",2.0
+user_86,399360,Alpha,"[12, 18]",5.7
+user_82,823219,Flow,"[16, 14, 12]",6.4
+user_79,1330681,Hunnington Hills,"[53, 27]",6.3
+user_45,653349,Vacation Friends,[35],8.6
+user_80,346910,The Predator,"[878, 28, 12]",8.3
+user_91,913290,Barbarian,"[27, 9648]",9.3
+user_76,1122504,Exorcism in Utero,[27],7.0
+user_41,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",3.1
+user_15,346910,The Predator,"[878, 28, 12]",4.4
+user_19,511987,Crawl,"[27, 53]",4.5
+user_77,298618,The Flash,"[12, 28, 878]",6.2
+user_55,346910,The Predator,"[878, 28, 12]",5.4
+user_69,346910,The Predator,"[878, 28, 12]",6.0
+user_63,913290,Barbarian,"[27, 9648]",2.3
+user_41,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",6.6
+user_46,1397493,2024.mov,[99],5.4
+user_25,1330681,Hunnington Hills,"[53, 27]",9.7
+user_65,399360,Alpha,"[12, 18]",4.7
+user_63,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",7.4
+user_57,399360,Alpha,"[12, 18]",2.5
+user_73,1397493,2024.mov,[99],8.2
+user_29,913290,Barbarian,"[27, 9648]",1.3
+user_29,646389,Plane,"[28, 12, 53]",3.6
+user_100,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",6.1
+user_99,399360,Alpha,"[12, 18]",5.9
+user_15,395817,The Thicket,"[80, 53, 37]",2.0
+user_100,646389,Plane,"[28, 12, 53]",8.4
+user_47,646389,Plane,"[28, 12, 53]",8.4
+user_6,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",5.9
+user_55,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",7.6
+user_84,773867,Seoul Vibe,"[28, 80, 35]",3.7
+user_5,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",3.4
+user_12,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",8.8
+user_16,773867,Seoul Vibe,"[28, 80, 35]",2.9
+user_95,395817,The Thicket,"[80, 53, 37]",7.2
+user_91,818647,Through My Window,"[10749, 18, 35]",6.7
+user_22,818647,Through My Window,"[10749, 18, 35]",2.3
+user_27,1403294,Entre Aulas,"[12, 18, 35]",8.2
+user_73,653349,Vacation Friends,[35],5.8
+user_77,646389,Plane,"[28, 12, 53]",2.5
+user_91,913290,Barbarian,"[27, 9648]",3.6
+user_35,511987,Crawl,"[27, 53]",9.9
+user_87,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",2.2
+user_97,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",9.3
+user_36,298618,The Flash,"[12, 28, 878]",7.3
+user_17,773867,Seoul Vibe,"[28, 80, 35]",2.3
+user_42,773867,Seoul Vibe,"[28, 80, 35]",7.9
+user_87,1330681,Hunnington Hills,"[53, 27]",5.4
+user_74,474350,It Chapter Two,"[27, 18, 53]",6.7
+user_49,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",1.7
+user_99,1122504,Exorcism in Utero,[27],4.6
+user_96,474350,It Chapter Two,"[27, 18, 53]",7.3
+user_48,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",9.6
+user_42,395817,The Thicket,"[80, 53, 37]",1.0
+user_100,1122504,Exorcism in Utero,[27],7.6
+user_59,653349,Vacation Friends,[35],8.7
+user_69,1330681,Hunnington Hills,"[53, 27]",3.0
+user_55,1403294,Entre Aulas,"[12, 18, 35]",5.5
+user_42,913290,Barbarian,"[27, 9648]",4.0
+user_74,298618,The Flash,"[12, 28, 878]",6.1
+user_63,823219,Flow,"[16, 14, 12]",9.0
+user_98,373571,Godzilla: King of the Monsters,"[878, 28]",1.4
+user_81,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",1.1
+user_21,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",5.1
+user_55,1403294,Entre Aulas,"[12, 18, 35]",10.0
+user_17,913290,Barbarian,"[27, 9648]",2.4
+user_36,1122504,Exorcism in Utero,[27],6.9
+user_33,1122504,Exorcism in Utero,[27],4.3
+user_84,346910,The Predator,"[878, 28, 12]",1.5
+user_81,913290,Barbarian,"[27, 9648]",7.5
+user_97,773867,Seoul Vibe,"[28, 80, 35]",4.9
+user_12,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",1.0
+user_62,1122504,Exorcism in Utero,[27],2.2
+user_29,511987,Crawl,"[27, 53]",7.1
+user_2,1397493,2024.mov,[99],7.3
+user_16,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",7.2
+user_62,1122504,Exorcism in Utero,[27],3.1
+user_12,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",1.9
+user_48,913290,Barbarian,"[27, 9648]",2.2
+user_100,298618,The Flash,"[12, 28, 878]",6.8
+user_87,298618,The Flash,"[12, 28, 878]",1.6
+user_73,1397493,2024.mov,[99],6.5
+user_22,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",4.2
+user_28,298618,The Flash,"[12, 28, 878]",9.3
+user_79,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",8.7
+user_12,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",2.3
+user_16,395817,The Thicket,"[80, 53, 37]",7.6
+user_45,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",3.8
+user_18,773867,Seoul Vibe,"[28, 80, 35]",3.5
+user_11,773867,Seoul Vibe,"[28, 80, 35]",6.0
+user_77,818647,Through My Window,"[10749, 18, 35]",3.6
+user_89,1397493,2024.mov,[99],8.6
+user_85,913290,Barbarian,"[27, 9648]",2.8
+user_78,511987,Crawl,"[27, 53]",2.7
+user_51,913290,Barbarian,"[27, 9648]",6.8
+user_31,399360,Alpha,"[12, 18]",4.5
+user_31,399360,Alpha,"[12, 18]",6.7
+user_10,511987,Crawl,"[27, 53]",9.0
+user_2,653349,Vacation Friends,[35],9.4
+user_17,1330681,Hunnington Hills,"[53, 27]",8.7
+user_73,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",4.3
+user_88,346910,The Predator,"[878, 28, 12]",7.9
+user_99,1122504,Exorcism in Utero,[27],1.2
+user_9,1397493,2024.mov,[99],3.4
+user_6,373571,Godzilla: King of the Monsters,"[878, 28]",9.5
+user_51,511987,Crawl,"[27, 53]",3.6
+user_92,511987,Crawl,"[27, 53]",7.9
+user_55,1330681,Hunnington Hills,"[53, 27]",1.7
+user_69,646389,Plane,"[28, 12, 53]",6.5
+user_36,1122504,Exorcism in Utero,[27],3.8
+user_66,1403294,Entre Aulas,"[12, 18, 35]",9.8
+user_20,646389,Plane,"[28, 12, 53]",3.9
+user_76,1122504,Exorcism in Utero,[27],3.8
+user_56,773867,Seoul Vibe,"[28, 80, 35]",1.5
+user_12,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",2.0
+user_79,818647,Through My Window,"[10749, 18, 35]",1.5
+user_86,346910,The Predator,"[878, 28, 12]",2.1
+user_91,298618,The Flash,"[12, 28, 878]",7.3
+user_21,399360,Alpha,"[12, 18]",9.6
+user_67,511987,Crawl,"[27, 53]",8.0
+user_93,474350,It Chapter Two,"[27, 18, 53]",2.5
+user_17,474350,It Chapter Two,"[27, 18, 53]",7.6
+user_16,1397493,2024.mov,[99],4.0
+user_55,474350,It Chapter Two,"[27, 18, 53]",5.7
+user_34,395817,The Thicket,"[80, 53, 37]",6.6
+user_64,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",5.6
+user_8,399360,Alpha,"[12, 18]",8.7
+user_22,653349,Vacation Friends,[35],2.4
+user_99,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",9.0
+user_87,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",3.1
+user_66,1397493,2024.mov,[99],1.4
+user_2,773867,Seoul Vibe,"[28, 80, 35]",1.4
+user_47,1330681,Hunnington Hills,"[53, 27]",9.3
+user_23,373571,Godzilla: King of the Monsters,"[878, 28]",6.0
+user_92,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",3.0
+user_32,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",9.2
+user_41,474350,It Chapter Two,"[27, 18, 53]",8.4
+user_74,653349,Vacation Friends,[35],2.1
+user_87,373571,Godzilla: King of the Monsters,"[878, 28]",2.6
+user_67,373571,Godzilla: King of the Monsters,"[878, 28]",9.6
+user_9,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",8.8
+user_100,913290,Barbarian,"[27, 9648]",3.9
+user_71,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",1.1
+user_26,913290,Barbarian,"[27, 9648]",6.1
+user_39,818647,Through My Window,"[10749, 18, 35]",3.2
+user_48,395817,The Thicket,"[80, 53, 37]",9.7
+user_99,1403294,Entre Aulas,"[12, 18, 35]",7.6
+user_70,773867,Seoul Vibe,"[28, 80, 35]",2.4
+user_53,1397493,2024.mov,[99],3.1
+user_45,1397493,2024.mov,[99],9.6
+user_1,1330681,Hunnington Hills,"[53, 27]",8.6
+user_94,913290,Barbarian,"[27, 9648]",1.9
+user_68,773867,Seoul Vibe,"[28, 80, 35]",4.8
+user_8,298618,The Flash,"[12, 28, 878]",7.4
+user_12,373571,Godzilla: King of the Monsters,"[878, 28]",9.3
+user_67,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",7.3
+user_48,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",9.8
+user_11,395817,The Thicket,"[80, 53, 37]",1.9
+user_18,1330681,Hunnington Hills,"[53, 27]",1.7
+user_73,373571,Godzilla: King of the Monsters,"[878, 28]",4.9
+user_17,773867,Seoul Vibe,"[28, 80, 35]",3.6
+user_41,1330681,Hunnington Hills,"[53, 27]",7.3
+user_95,823219,Flow,"[16, 14, 12]",3.9
+user_35,773867,Seoul Vibe,"[28, 80, 35]",1.7
+user_26,298618,The Flash,"[12, 28, 878]",8.0
+user_75,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",2.4
+user_22,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",5.2
+user_53,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",5.8
+user_99,1403294,Entre Aulas,"[12, 18, 35]",5.1
+user_60,474350,It Chapter Two,"[27, 18, 53]",8.7
+user_12,346910,The Predator,"[878, 28, 12]",8.3
+user_39,818647,Through My Window,"[10749, 18, 35]",1.4
+user_42,298618,The Flash,"[12, 28, 878]",1.8
+user_32,653349,Vacation Friends,[35],4.6
+user_7,913290,Barbarian,"[27, 9648]",3.3
+user_23,1397493,2024.mov,[99],9.6
+user_58,646389,Plane,"[28, 12, 53]",7.7
+user_32,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",5.2
+user_18,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",1.1
+user_100,773867,Seoul Vibe,"[28, 80, 35]",2.2
+user_52,653349,Vacation Friends,[35],7.2
+user_83,1122504,Exorcism in Utero,[27],6.2
+user_34,1122504,Exorcism in Utero,[27],1.2
+user_9,1403294,Entre Aulas,"[12, 18, 35]",9.1
+user_57,298618,The Flash,"[12, 28, 878]",1.8
+user_43,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",1.4
+user_60,373571,Godzilla: King of the Monsters,"[878, 28]",2.5
+user_74,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",8.4
+user_51,399360,Alpha,"[12, 18]",1.3
+user_88,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",2.6
+user_28,346910,The Predator,"[878, 28, 12]",3.5
+user_58,298618,The Flash,"[12, 28, 878]",1.3
+user_80,818647,Through My Window,"[10749, 18, 35]",3.2
+user_38,399360,Alpha,"[12, 18]",4.7
+user_71,399360,Alpha,"[12, 18]",1.5
+user_36,1330681,Hunnington Hills,"[53, 27]",2.2
+user_26,511987,Crawl,"[27, 53]",3.2
+user_70,1397493,2024.mov,[99],9.9
+user_92,653349,Vacation Friends,[35],5.3
+user_63,653349,Vacation Friends,[35],9.2
+user_65,823219,Flow,"[16, 14, 12]",4.5
+user_24,1397493,2024.mov,[99],3.9
+user_29,1397493,2024.mov,[99],9.1
+user_100,474350,It Chapter Two,"[27, 18, 53]",1.5
+user_61,511987,Crawl,"[27, 53]",4.2
+user_75,773867,Seoul Vibe,"[28, 80, 35]",9.8
+user_13,773867,Seoul Vibe,"[28, 80, 35]",6.9
+user_35,646389,Plane,"[28, 12, 53]",8.3
+user_95,373571,Godzilla: King of the Monsters,"[878, 28]",7.9
+user_29,395817,The Thicket,"[80, 53, 37]",8.6
+user_50,653349,Vacation Friends,[35],9.4
+user_23,346910,The Predator,"[878, 28, 12]",3.1
+user_41,653349,Vacation Friends,[35],9.2
+user_4,653349,Vacation Friends,[35],9.5
+user_73,298618,The Flash,"[12, 28, 878]",6.1
+user_25,399360,Alpha,"[12, 18]",5.9
+user_23,399360,Alpha,"[12, 18]",1.3
+user_8,773867,Seoul Vibe,"[28, 80, 35]",6.4
+user_3,511987,Crawl,"[27, 53]",5.3
+user_43,818647,Through My Window,"[10749, 18, 35]",2.8
+user_17,823219,Flow,"[16, 14, 12]",7.5
+user_42,373571,Godzilla: King of the Monsters,"[878, 28]",1.2
+user_76,298618,The Flash,"[12, 28, 878]",8.0
+user_68,653349,Vacation Friends,[35],9.6
+user_48,1330681,Hunnington Hills,"[53, 27]",6.3
+user_44,913290,Barbarian,"[27, 9648]",3.9
+user_21,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",8.1
+user_63,823219,Flow,"[16, 14, 12]",2.6
+user_72,818647,Through My Window,"[10749, 18, 35]",8.1
+user_29,395817,The Thicket,"[80, 53, 37]",8.3
+user_49,913290,Barbarian,"[27, 9648]",7.6
+user_38,298618,The Flash,"[12, 28, 878]",2.6
+user_1,395817,The Thicket,"[80, 53, 37]",4.5
+user_99,395817,The Thicket,"[80, 53, 37]",1.3
+user_78,823219,Flow,"[16, 14, 12]",9.3
+user_79,773867,Seoul Vibe,"[28, 80, 35]",6.8
+user_14,399360,Alpha,"[12, 18]",2.3
+user_96,1122504,Exorcism in Utero,[27],3.1
+user_41,346910,The Predator,"[878, 28, 12]",6.7
+user_12,823219,Flow,"[16, 14, 12]",5.0
+user_34,1403294,Entre Aulas,"[12, 18, 35]",3.2
+user_9,653349,Vacation Friends,[35],3.3
+user_14,1397493,2024.mov,[99],1.4
+user_57,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",9.7
+user_53,399360,Alpha,"[12, 18]",8.9
+user_45,646389,Plane,"[28, 12, 53]",4.4
+user_62,395817,The Thicket,"[80, 53, 37]",6.9
+user_88,773867,Seoul Vibe,"[28, 80, 35]",2.5
+user_10,373571,Godzilla: King of the Monsters,"[878, 28]",3.7
+user_41,474350,It Chapter Two,"[27, 18, 53]",9.6
+user_10,823219,Flow,"[16, 14, 12]",2.5
+user_49,346910,The Predator,"[878, 28, 12]",7.6
+user_71,1122504,Exorcism in Utero,[27],4.0
+user_79,399360,Alpha,"[12, 18]",7.3
+user_56,346910,The Predator,"[878, 28, 12]",6.5
+user_56,346910,The Predator,"[878, 28, 12]",1.5
+user_43,1403294,Entre Aulas,"[12, 18, 35]",9.8
+user_53,646389,Plane,"[28, 12, 53]",7.5
+user_94,646389,Plane,"[28, 12, 53]",3.4
+user_37,913290,Barbarian,"[27, 9648]",3.1
+user_7,1330681,Hunnington Hills,"[53, 27]",6.1
+user_63,298618,The Flash,"[12, 28, 878]",1.5
+user_1,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",1.8
+user_85,818647,Through My Window,"[10749, 18, 35]",5.3
+user_13,1397493,2024.mov,[99],2.9
+user_82,913290,Barbarian,"[27, 9648]",9.8
+user_61,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",3.8
+user_51,399360,Alpha,"[12, 18]",5.4
+user_85,474350,It Chapter Two,"[27, 18, 53]",1.8
+user_70,1330681,Hunnington Hills,"[53, 27]",2.7
+user_49,653349,Vacation Friends,[35],2.7
+user_6,474350,It Chapter Two,"[27, 18, 53]",5.0
+user_34,773867,Seoul Vibe,"[28, 80, 35]",8.5
+user_73,373571,Godzilla: King of the Monsters,"[878, 28]",2.4
+user_90,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",1.8
+user_45,646389,Plane,"[28, 12, 53]",4.7
+user_97,395817,The Thicket,"[80, 53, 37]",3.0
+user_8,1330681,Hunnington Hills,"[53, 27]",8.4
+user_54,646389,Plane,"[28, 12, 53]",7.2
+user_61,395817,The Thicket,"[80, 53, 37]",8.9
+user_61,913290,Barbarian,"[27, 9648]",1.7
+user_92,373571,Godzilla: King of the Monsters,"[878, 28]",5.5
+user_67,395817,The Thicket,"[80, 53, 37]",7.1
+user_80,298618,The Flash,"[12, 28, 878]",2.1
+user_97,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",2.6
+user_22,1403294,Entre Aulas,"[12, 18, 35]",8.3
+user_17,373571,Godzilla: King of the Monsters,"[878, 28]",4.8
+user_88,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",2.8
+user_81,298618,The Flash,"[12, 28, 878]",8.5
+user_34,823219,Flow,"[16, 14, 12]",9.2
+user_9,1122504,Exorcism in Utero,[27],4.5
+user_51,646389,Plane,"[28, 12, 53]",3.9
+user_36,511987,Crawl,"[27, 53]",5.1
+user_2,818647,Through My Window,"[10749, 18, 35]",6.3
+user_54,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",4.7
+user_19,395817,The Thicket,"[80, 53, 37]",6.3
+user_98,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",9.3
+user_73,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",8.1
+user_69,653349,Vacation Friends,[35],8.9
+user_34,1330681,Hunnington Hills,"[53, 27]",6.9
+user_74,818647,Through My Window,"[10749, 18, 35]",5.3
+user_23,474350,It Chapter Two,"[27, 18, 53]",4.6
+user_80,818647,Through My Window,"[10749, 18, 35]",7.1
+user_52,373571,Godzilla: King of the Monsters,"[878, 28]",4.6
+user_43,773867,Seoul Vibe,"[28, 80, 35]",1.4
+user_61,474350,It Chapter Two,"[27, 18, 53]",9.1
+user_3,823219,Flow,"[16, 14, 12]",8.4
+user_39,913290,Barbarian,"[27, 9648]",3.5
+user_63,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",9.8
+user_30,298618,The Flash,"[12, 28, 878]",3.7
+user_96,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",8.0
+user_42,474350,It Chapter Two,"[27, 18, 53]",7.6
+user_78,1122504,Exorcism in Utero,[27],2.7
+user_28,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",7.7
+user_98,511987,Crawl,"[27, 53]",8.8
+user_8,511987,Crawl,"[27, 53]",8.1
+user_9,913290,Barbarian,"[27, 9648]",7.4
+user_52,298618,The Flash,"[12, 28, 878]",8.0
+user_68,395817,The Thicket,"[80, 53, 37]",1.3
+user_25,1403294,Entre Aulas,"[12, 18, 35]",8.5
+user_32,373571,Godzilla: King of the Monsters,"[878, 28]",5.1
+user_47,1403294,Entre Aulas,"[12, 18, 35]",3.5
+user_60,511987,Crawl,"[27, 53]",4.6
+user_16,1397493,2024.mov,[99],3.2
+user_63,818647,Through My Window,"[10749, 18, 35]",5.0
+user_61,395817,The Thicket,"[80, 53, 37]",6.0
+user_45,346910,The Predator,"[878, 28, 12]",8.5
+user_34,1122504,Exorcism in Utero,[27],3.6
+user_50,373571,Godzilla: King of the Monsters,"[878, 28]",2.5
+user_74,1403294,Entre Aulas,"[12, 18, 35]",8.7
+user_83,773867,Seoul Vibe,"[28, 80, 35]",7.1
+user_35,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",5.6
+user_100,1397493,2024.mov,[99],5.3
+user_17,346910,The Predator,"[878, 28, 12]",6.4
+user_2,773867,Seoul Vibe,"[28, 80, 35]",3.3
+user_40,474350,It Chapter Two,"[27, 18, 53]",4.8
+user_49,653349,Vacation Friends,[35],5.1
+user_28,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",3.7
+user_67,818647,Through My Window,"[10749, 18, 35]",4.6
+user_14,1397493,2024.mov,[99],5.6
+user_85,653349,Vacation Friends,[35],6.1
+user_77,818647,Through My Window,"[10749, 18, 35]",3.5
+user_88,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",5.3
+user_44,474350,It Chapter Two,"[27, 18, 53]",6.8
+user_36,474350,It Chapter Two,"[27, 18, 53]",6.9
+user_84,913290,Barbarian,"[27, 9648]",2.7
+user_67,773867,Seoul Vibe,"[28, 80, 35]",9.1
+user_77,1330681,Hunnington Hills,"[53, 27]",6.9
+user_88,298618,The Flash,"[12, 28, 878]",7.5
+user_84,399360,Alpha,"[12, 18]",10.0
+user_34,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",4.6
+user_95,373571,Godzilla: King of the Monsters,"[878, 28]",6.2
+user_74,1403294,Entre Aulas,"[12, 18, 35]",4.1
+user_92,773867,Seoul Vibe,"[28, 80, 35]",7.2
+user_82,399360,Alpha,"[12, 18]",9.2
+user_86,653349,Vacation Friends,[35],5.6
+user_22,646389,Plane,"[28, 12, 53]",2.6
+user_13,399360,Alpha,"[12, 18]",2.2
+user_34,646389,Plane,"[28, 12, 53]",7.9
+user_24,823219,Flow,"[16, 14, 12]",6.9
+user_29,653349,Vacation Friends,[35],3.0
+user_40,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",8.1
+user_43,653349,Vacation Friends,[35],3.3
+user_38,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",8.7
+user_61,373571,Godzilla: King of the Monsters,"[878, 28]",8.8
+user_75,395817,The Thicket,"[80, 53, 37]",9.5
+user_10,399360,Alpha,"[12, 18]",9.0
+user_65,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",8.8
+user_49,511987,Crawl,"[27, 53]",3.7
+user_7,298618,The Flash,"[12, 28, 878]",2.2
+user_26,823219,Flow,"[16, 14, 12]",4.7
+user_73,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",2.3
+user_92,346910,The Predator,"[878, 28, 12]",8.0
+user_63,823219,Flow,"[16, 14, 12]",6.7
+user_23,823219,Flow,"[16, 14, 12]",6.7
+user_1,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",3.5
+user_98,346910,The Predator,"[878, 28, 12]",6.2
+user_21,399360,Alpha,"[12, 18]",8.1
+user_100,1122504,Exorcism in Utero,[27],2.2
+user_56,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",4.6
+user_62,1330681,Hunnington Hills,"[53, 27]",1.0
+user_69,1403294,Entre Aulas,"[12, 18, 35]",7.6
+user_2,823219,Flow,"[16, 14, 12]",7.8
+user_68,1403294,Entre Aulas,"[12, 18, 35]",1.2
+user_1,773867,Seoul Vibe,"[28, 80, 35]",3.0
+user_45,913290,Barbarian,"[27, 9648]",2.2
+user_50,511987,Crawl,"[27, 53]",6.3
+user_22,1122504,Exorcism in Utero,[27],8.4
+user_39,913290,Barbarian,"[27, 9648]",5.1
+user_67,818647,Through My Window,"[10749, 18, 35]",5.7
+user_56,298618,The Flash,"[12, 28, 878]",4.1
+user_63,653349,Vacation Friends,[35],7.8
+user_22,1330681,Hunnington Hills,"[53, 27]",1.2
+user_29,298618,The Flash,"[12, 28, 878]",2.9
+user_3,395817,The Thicket,"[80, 53, 37]",5.5
+user_16,653349,Vacation Friends,[35],7.4
+user_5,1330681,Hunnington Hills,"[53, 27]",8.9
+user_33,646389,Plane,"[28, 12, 53]",6.6
+user_77,373571,Godzilla: King of the Monsters,"[878, 28]",7.0
+user_84,1397493,2024.mov,[99],1.4
+user_15,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",5.0
+user_16,646389,Plane,"[28, 12, 53]",3.3
+user_90,298618,The Flash,"[12, 28, 878]",2.8
+user_88,1397493,2024.mov,[99],3.7
+user_85,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",7.0
+user_35,818647,Through My Window,"[10749, 18, 35]",6.5
+user_18,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",8.5
+user_14,511987,Crawl,"[27, 53]",7.5
+user_16,913290,Barbarian,"[27, 9648]",2.0
+user_14,399360,Alpha,"[12, 18]",2.8
+user_26,474350,It Chapter Two,"[27, 18, 53]",8.5
+user_26,653349,Vacation Friends,[35],7.3
+user_38,346910,The Predator,"[878, 28, 12]",1.4
+user_64,1403294,Entre Aulas,"[12, 18, 35]",7.2
+user_62,823219,Flow,"[16, 14, 12]",3.1
+user_2,1122504,Exorcism in Utero,[27],9.2
+user_74,399360,Alpha,"[12, 18]",2.3
+user_12,511987,Crawl,"[27, 53]",1.7
+user_93,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",9.1
+user_83,773867,Seoul Vibe,"[28, 80, 35]",5.1
+user_38,474350,It Chapter Two,"[27, 18, 53]",5.2
+user_13,346910,The Predator,"[878, 28, 12]",8.9
+user_38,653349,Vacation Friends,[35],8.2
+user_41,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",7.6
+user_13,373571,Godzilla: King of the Monsters,"[878, 28]",1.1
+user_18,346910,The Predator,"[878, 28, 12]",4.0
+user_57,818647,Through My Window,"[10749, 18, 35]",3.4
+user_94,1122504,Exorcism in Utero,[27],4.4
+user_44,346910,The Predator,"[878, 28, 12]",2.0
+user_52,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",3.4
+user_50,399360,Alpha,"[12, 18]",8.2
+user_84,346910,The Predator,"[878, 28, 12]",2.0
+user_90,373571,Godzilla: King of the Monsters,"[878, 28]",9.8
+user_21,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",4.7
+user_76,399360,Alpha,"[12, 18]",8.2
+user_87,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",2.6
+user_49,653349,Vacation Friends,[35],6.5
+user_88,298618,The Flash,"[12, 28, 878]",5.3
+user_63,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",9.0
+user_57,373571,Godzilla: King of the Monsters,"[878, 28]",1.6
+user_84,823219,Flow,"[16, 14, 12]",1.1
+user_87,511987,Crawl,"[27, 53]",7.9
+user_74,395817,The Thicket,"[80, 53, 37]",3.0
+user_86,823219,Flow,"[16, 14, 12]",5.7
+user_89,818647,Through My Window,"[10749, 18, 35]",1.9
+user_85,773867,Seoul Vibe,"[28, 80, 35]",5.3
+user_85,1330681,Hunnington Hills,"[53, 27]",2.3
+user_72,818647,Through My Window,"[10749, 18, 35]",1.5
+user_83,346910,The Predator,"[878, 28, 12]",5.6
+user_61,399360,Alpha,"[12, 18]",8.8
+user_10,399360,Alpha,"[12, 18]",3.9
+user_43,474350,It Chapter Two,"[27, 18, 53]",1.5
+user_29,646389,Plane,"[28, 12, 53]",6.8
+user_52,773867,Seoul Vibe,"[28, 80, 35]",1.7
+user_57,395817,The Thicket,"[80, 53, 37]",5.0
+user_64,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",3.8
+user_64,1397493,2024.mov,[99],1.9
+user_53,373571,Godzilla: King of the Monsters,"[878, 28]",6.0
+user_1,1122504,Exorcism in Utero,[27],8.1
+user_80,913290,Barbarian,"[27, 9648]",9.0
+user_72,1403294,Entre Aulas,"[12, 18, 35]",6.9
+user_59,823219,Flow,"[16, 14, 12]",4.3
+user_7,773867,Seoul Vibe,"[28, 80, 35]",8.6
+user_43,646389,Plane,"[28, 12, 53]",7.9
+user_77,399360,Alpha,"[12, 18]",7.4
+user_47,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",2.0
+user_98,773867,Seoul Vibe,"[28, 80, 35]",1.0
+user_46,913290,Barbarian,"[27, 9648]",5.9
+user_48,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",1.4
+user_22,399360,Alpha,"[12, 18]",2.3
+user_92,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",2.0
+user_79,1403294,Entre Aulas,"[12, 18, 35]",2.7
+user_51,1403294,Entre Aulas,"[12, 18, 35]",5.1
+user_25,823219,Flow,"[16, 14, 12]",2.0
+user_54,373571,Godzilla: King of the Monsters,"[878, 28]",9.3
+user_87,395817,The Thicket,"[80, 53, 37]",2.1
+user_58,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",6.9
+user_65,298618,The Flash,"[12, 28, 878]",9.7
+user_1,511987,Crawl,"[27, 53]",7.6
+user_71,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",8.5
+user_62,511987,Crawl,"[27, 53]",8.0
+user_23,395817,The Thicket,"[80, 53, 37]",2.6
+user_17,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",4.5
+user_77,818647,Through My Window,"[10749, 18, 35]",8.9
+user_65,1330681,Hunnington Hills,"[53, 27]",4.8
+user_78,773867,Seoul Vibe,"[28, 80, 35]",3.5
+user_44,913290,Barbarian,"[27, 9648]",5.1
+user_18,298618,The Flash,"[12, 28, 878]",4.7
+user_90,511987,Crawl,"[27, 53]",3.7
+user_90,646389,Plane,"[28, 12, 53]",8.7
+user_92,646389,Plane,"[28, 12, 53]",6.7
+user_26,1403294,Entre Aulas,"[12, 18, 35]",6.6
+user_38,653349,Vacation Friends,[35],9.3
+user_17,346910,The Predator,"[878, 28, 12]",5.5
+user_89,823219,Flow,"[16, 14, 12]",7.4
+user_98,653349,Vacation Friends,[35],6.1
+user_75,395817,The Thicket,"[80, 53, 37]",9.5
+user_91,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",7.1
+user_69,913290,Barbarian,"[27, 9648]",8.9
+user_55,1397493,2024.mov,[99],5.7
+user_4,1330681,Hunnington Hills,"[53, 27]",2.3
+user_86,373571,Godzilla: King of the Monsters,"[878, 28]",2.8
+user_97,346910,The Predator,"[878, 28, 12]",9.9
+user_88,474350,It Chapter Two,"[27, 18, 53]",2.3
+user_8,913290,Barbarian,"[27, 9648]",2.8
+user_70,373571,Godzilla: King of the Monsters,"[878, 28]",4.2
+user_58,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",6.5
+user_87,646389,Plane,"[28, 12, 53]",8.8
+user_96,646389,Plane,"[28, 12, 53]",4.5
+user_66,913290,Barbarian,"[27, 9648]",7.2
+user_7,1330681,Hunnington Hills,"[53, 27]",4.5
+user_88,823219,Flow,"[16, 14, 12]",9.7
+user_7,1397493,2024.mov,[99],7.7
+user_26,818647,Through My Window,"[10749, 18, 35]",8.8
+user_57,773867,Seoul Vibe,"[28, 80, 35]",9.2
+user_91,653349,Vacation Friends,[35],7.8
+user_70,818647,Through My Window,"[10749, 18, 35]",2.8
+user_93,1403294,Entre Aulas,"[12, 18, 35]",3.6
+user_23,1122504,Exorcism in Utero,[27],2.7
+user_23,511987,Crawl,"[27, 53]",2.1
+user_6,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",3.5
+user_34,298618,The Flash,"[12, 28, 878]",2.4
+user_33,1397493,2024.mov,[99],4.0
+user_91,298618,The Flash,"[12, 28, 878]",1.4
+user_42,818647,Through My Window,"[10749, 18, 35]",1.5
+user_81,818647,Through My Window,"[10749, 18, 35]",8.6
+user_39,399360,Alpha,"[12, 18]",8.1
+user_71,653349,Vacation Friends,[35],1.7
+user_91,823219,Flow,"[16, 14, 12]",5.7
+user_24,511987,Crawl,"[27, 53]",1.6
+user_65,346910,The Predator,"[878, 28, 12]",4.7
+user_69,1330681,Hunnington Hills,"[53, 27]",1.8
+user_29,1403294,Entre Aulas,"[12, 18, 35]",7.0
+user_43,653349,Vacation Friends,[35],3.6
+user_97,818647,Through My Window,"[10749, 18, 35]",5.8
+user_72,1397493,2024.mov,[99],2.0
+user_45,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",3.2
+user_83,818647,Through My Window,"[10749, 18, 35]",9.3
+user_32,373571,Godzilla: King of the Monsters,"[878, 28]",7.1
+user_42,1330681,Hunnington Hills,"[53, 27]",9.2
+user_15,1330681,Hunnington Hills,"[53, 27]",3.3
+user_93,913290,Barbarian,"[27, 9648]",1.2
+user_67,653349,Vacation Friends,[35],5.6
+user_66,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",5.4
+user_38,1403294,Entre Aulas,"[12, 18, 35]",3.9
+user_11,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",2.5
+user_99,646389,Plane,"[28, 12, 53]",5.8
+user_81,1122504,Exorcism in Utero,[27],2.9
+user_81,1403294,Entre Aulas,"[12, 18, 35]",8.8
+user_55,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",2.9
+user_90,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",6.8
+user_10,298618,The Flash,"[12, 28, 878]",1.2
+user_92,823219,Flow,"[16, 14, 12]",1.3
+user_10,373571,Godzilla: King of the Monsters,"[878, 28]",2.6
+user_33,646389,Plane,"[28, 12, 53]",1.6
+user_30,474350,It Chapter Two,"[27, 18, 53]",4.7
+user_58,1330681,Hunnington Hills,"[53, 27]",4.9
+user_3,1330681,Hunnington Hills,"[53, 27]",7.1
+user_69,1397493,2024.mov,[99],6.8
+user_80,1122504,Exorcism in Utero,[27],7.8
+user_75,373571,Godzilla: King of the Monsters,"[878, 28]",7.3
+user_10,653349,Vacation Friends,[35],9.4
+user_14,913290,Barbarian,"[27, 9648]",8.1
+user_39,818647,Through My Window,"[10749, 18, 35]",1.8
+user_98,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",4.4
+user_85,1397493,2024.mov,[99],5.3
+user_69,773867,Seoul Vibe,"[28, 80, 35]",2.2
+user_51,646389,Plane,"[28, 12, 53]",3.7
+user_82,298618,The Flash,"[12, 28, 878]",3.7
+user_94,653349,Vacation Friends,[35],9.6
+user_2,646389,Plane,"[28, 12, 53]",8.9
+user_19,799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]",1.4
+user_74,818647,Through My Window,"[10749, 18, 35]",4.5
+user_71,1122504,Exorcism in Utero,[27],3.7
+user_96,653349,Vacation Friends,[35],2.9
+user_83,511987,Crawl,"[27, 53]",2.3
+user_24,773867,Seoul Vibe,"[28, 80, 35]",6.6
+user_33,1403294,Entre Aulas,"[12, 18, 35]",2.0
+user_86,395817,The Thicket,"[80, 53, 37]",8.7
+user_97,646389,Plane,"[28, 12, 53]",5.2
+user_71,1122504,Exorcism in Utero,[27],3.6
+user_9,474350,It Chapter Two,"[27, 18, 53]",1.9
+user_93,395817,The Thicket,"[80, 53, 37]",5.4
+user_43,653349,Vacation Friends,[35],2.2
+user_84,773867,Seoul Vibe,"[28, 80, 35]",1.9
+user_80,1122504,Exorcism in Utero,[27],9.1
+user_41,399360,Alpha,"[12, 18]",5.1
+user_79,913290,Barbarian,"[27, 9648]",7.2
+user_20,395817,The Thicket,"[80, 53, 37]",6.1
+user_41,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",2.5
+user_41,773867,Seoul Vibe,"[28, 80, 35]",8.1
+user_92,572802,Aquaman and the Lost Kingdom,"[28, 12, 14]",3.5
+user_47,298618,The Flash,"[12, 28, 878]",7.1
+user_43,399360,Alpha,"[12, 18]",5.2
+user_46,913290,Barbarian,"[27, 9648]",5.4
+user_14,346910,The Predator,"[878, 28, 12]",6.8
+user_11,474350,It Chapter Two,"[27, 18, 53]",8.7
+user_18,646389,Plane,"[28, 12, 53]",2.8
+user_94,1122504,Exorcism in Utero,[27],7.5
+user_3,511987,Crawl,"[27, 53]",6.7
+user_75,395817,The Thicket,"[80, 53, 37]",4.6
+user_76,1403294,Entre Aulas,"[12, 18, 35]",9.2
+user_71,474350,It Chapter Two,"[27, 18, 53]",5.9
+user_70,399360,Alpha,"[12, 18]",6.9
+user_20,653349,Vacation Friends,[35],4.5
+user_99,395817,The Thicket,"[80, 53, 37]",7.6
+user_38,298618,The Flash,"[12, 28, 878]",5.2
+user_66,1122504,Exorcism in Utero,[27],4.6
+user_65,1397493,2024.mov,[99],7.0
+user_79,346910,The Predator,"[878, 28, 12]",7.8
+user_18,1400781,Panivizhum Iravu: The Onset,"[80, 53, 28]",2.4
+user_73,395817,The Thicket,"[80, 53, 37]",6.9
+user_19,399360,Alpha,"[12, 18]",9.5
+user_6,773867,Seoul Vibe,"[28, 80, 35]",7.9
+user_30,1122504,Exorcism in Utero,[27],3.4
+user_30,373571,Godzilla: King of the Monsters,"[878, 28]",7.0
+user_67,653349,Vacation Friends,[35],4.5
+user_59,373571,Godzilla: King of the Monsters,"[878, 28]",1.4
+user_84,823219,Flow,"[16, 14, 12]",1.9
